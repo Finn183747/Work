@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24ca13e4-1199-4005-b8d1-4cf7cdaa666e" name="Changes" comment="таблица плюсов" />
+    <list default="true" id="24ca13e4-1199-4005-b8d1-4cf7cdaa666e" name="Changes" comment="таблица умножений">
+      <change afterPath="$PROJECT_DIR$/src/Work04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Work04">
     <configuration name="Work02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Work02" />
       <module name="Work" />
@@ -43,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Work04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work04" />
+      <module name="Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Work04" />
         <item itemvalue="Application.Work02" />
       </list>
     </recent_temporary>
@@ -72,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661432348539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="таблица умножений">
+      <created>1661432496816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661432496816</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="мой седьмой комид" />
     <MESSAGE value="таблица плюсов" />
-    <option name="LAST_COMMIT_MESSAGE" value="таблица плюсов" />
+    <MESSAGE value="таблица умножений" />
+    <option name="LAST_COMMIT_MESSAGE" value="таблица умножений" />
   </component>
 </project>
