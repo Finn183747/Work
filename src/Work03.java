@@ -1,5 +1,6 @@
+
 import java.util.Scanner;
-public class Work02 {
+public class Work03 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println(" Number: ");
