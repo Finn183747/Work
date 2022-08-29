@@ -7,7 +7,7 @@ public class Work04 {
         int a =scan.nextInt();
         System.out.print("second Number: ");
         int b =scan.nextInt();
-        int sum = a + b;
+        int sum = a * 2 ;
         System.out.println("sum: "+sum);
     }
 }
